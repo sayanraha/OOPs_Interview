@@ -1,0 +1,29 @@
+Topics : 
+Introduction
+ What is OOPs ? 
+ OOPs - Class and Objects
+ Empty Class
+ Access Modifiers
+ Getter && Setters
+ BTS of Objects 
+ Homework
+ Static vs Dynamic Allocation
+ Constructor
+ Default Constructor
+ Parameterised Constructor
+ this keyword
+ Copy Constructor
+ Shallow and Deep Copy
+ Assignment Operator
+ Destructor
+ Homework
+ Static Keyword
+ Static Functions
+ Summary
+
+
+
+
+
+
+
